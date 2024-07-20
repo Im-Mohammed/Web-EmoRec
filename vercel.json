@@ -3,7 +3,7 @@
     "builds":
   [
     {
-        "src":"poll/wsgi.py",
+        "src":"mini/wsgi.py",
         "use":"@vercel/python",
         "config":{"maxlambdaSize":"15mb","runtime":"python3.11.3 "}
     },
