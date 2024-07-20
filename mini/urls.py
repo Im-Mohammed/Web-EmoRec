@@ -15,6 +15,8 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
+from django.conf import settings
+from django.conf.urls import static
 from django.urls import path
 from core.views import home
 from about.views import about,download_pdf
@@ -32,3 +34,4 @@ urlpatterns = [
     path('download_emotion_log/', download_emotion_log, name='download_emotion_log'),
     path('Emotion_Detection_Hand/', run_detection, name='run_detection'),
 ]
+
