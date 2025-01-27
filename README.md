@@ -73,7 +73,7 @@ Contributions are welcome! Follow these steps to contribute:
 ---
 ## 📊 Demo
 
-
+https://github.com/user-attachments/assets/738075e0-8aed-4038-b361-53df8322f960
 
 ## 📜 License
 This project is licensed under the [Apache 2.0 License](LICENSE).
