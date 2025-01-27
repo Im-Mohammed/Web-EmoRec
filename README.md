@@ -1,4 +1,3 @@
-# Web-EmoRec
 # 🌟 Web-EmoRec
 
 ## 🚀 Overview
@@ -31,7 +30,7 @@
 ├── app/                    # Django app files
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
-'''
+```
 ## 🖥️ How to Run the Project
 1. **Clone the Repository**:
    ```bash
