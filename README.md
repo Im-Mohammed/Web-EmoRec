@@ -121,6 +121,5 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 ## ❤️ Acknowledgments
 
 * **Inspiration**: The need for enhanced emotional awareness and communication.
-* **Tools**: TensorFlow, OpenCV, Django, HTML, CSS, and JavaScript.
 
 ```
