@@ -114,9 +114,9 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 ## 📧 Contact
 
 **Mohammed**
+
 🌐 GitHub: [Im-Mohammed](https://github.com/Im-Mohammed)
 
 ---
 ## ❤️ Acknowledgments
-
 * **Inspiration**: The need for enhanced emotional awareness and communication.
