@@ -114,6 +114,30 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 ## 📧 Contact
 
 **Mohammed**
+## 👥 Contributors
+
+Thanks to the following people for their contributions!
+
+<p align="left">
+  <a href="https://github.com/Im-Mohammed">
+    <img src="https://avatars.githubusercontent.com/u/127348185?v=4" width="80px;" alt="Mohammed Ali"/>
+    <br />
+    <sub><b>Mohammed Ali</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sakcode26">
+    <img src="https://avatars.githubusercontent.com/u/101531803?v=4" width="80px;" alt="sakcode26"/>
+    <br />
+    <sub><b>sakcode26</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Muqtadir27">
+    <img src="https://avatars.githubusercontent.com/u/107737369?v=4" width="80px;" alt="Muqtadir27"/>
+    <br />
+    <sub><b>Muqtadir27</b></sub>
+  </a>
+</p>
+
 
 🌐 GitHub: [Im-Mohammed](https://github.com/Im-Mohammed)
 
