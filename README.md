@@ -1,6 +1,5 @@
 # 🌟 Web-EmoRec
 ---
-
 ## 🎥 Demo
 
 > A video showcasing real-time emotion recognition via webcam interface.
